@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Arely Romero"
 output: 
   html_document:
     number_sections: true
@@ -14,10 +14,10 @@ date: "`r Sys.Date()`"
 Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
 
 ## A short history of you.  
-Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
+ Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question. 
   
 ### my answer     
-  
+  I attended Quartz Hill High School and graduated 2024.Comparing math and English is so easy because I actaully like both subjects as long as I have a teacher who teaches the subjects very thoroughly.The subject I did best in was English. 
 
      
 
@@ -26,7 +26,7 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+  For this class I will be using a MacBook Air from apple. 
    
 
 ## Others and You?   
